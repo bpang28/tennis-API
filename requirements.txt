@@ -1,0 +1,15 @@
+tensorflow 
+torch
+torchvision
+ultralytics
+python-multipart
+uvicorn[standard]
+numpy >= 1.24
+aiofiles
+opencv-python >= 4.8.0.76
+imageio
+fastapi
+pillow
+imageio-ffmpeg
+boto3
+scipy
